@@ -2,7 +2,8 @@
 <div id="badges"  align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
-    
+    [Listen to the audio sample](https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3)
+
   </div>
 <div id="badges"  align="center">
 <h1 align="center">Samir Aoulad Amar</h1>
