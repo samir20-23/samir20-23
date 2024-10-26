@@ -14,11 +14,10 @@
 </div>
  
  
-<audio autoplay style="opacity: 0; position: absolute;">
+<audio controls autoplay >
   <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-
 
 
   
