@@ -10,12 +10,7 @@
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="samir20-23" /> 
 </p>
-
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=samir20-23" alt="samir20-23" />
-    </a> 
-</p>
+ 
 
 <p align="left"> 
     <a href="https://twitter.com/https://x.com/samir_germany1" target="blank">
