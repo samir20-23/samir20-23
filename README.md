@@ -1,24 +1,18 @@
 <div id="badges" align="center">
   <style>
     @keyframes bounce {
-      0% {
-        transform: translate(0, 0);
+      0%, 20%, 50%, 80%, 100% {
+        transform: translateY(0);
       }
-      25% {
-        transform: translate(20px, -20px);
+      40% {
+        transform: translateY(-2px);
       }
-      50% {
-        transform: translate(0, 20px);
-      }
-      75% {
-        transform: translate(-20px, 20px);
-      }
-      100% {
-        transform: translate(0, 0);
+      60% {
+        transform: translateY(-1px);
       }
     }
-    div {
-      animation: bounce 3s infinite;
+   div {
+      animation: bounce 2s infinite;
     }
   </style>
   <h1 align="center">Samir Aoulad Amar</h1>
