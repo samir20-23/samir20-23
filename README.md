@@ -1,60 +1,118 @@
-<h1 align="center">Hi 👋, I'm Samir Aoulad Amar</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark" alt="trophy" />
-    </a>
-</p>
+<div id="badges"  align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+    
+  </div>
+
+<div id="badges"  align="center">
+    
+    
+![](https://komarev.com/ghpvc/?username=dev-dragon-ahmed)
+    <img  src="https://img.shields.io/github/followers/dev-dragon-ahmed?label=Follow" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/github/stars/dev-dragon-ahmed?affiliations=OWNER%2CCOLLABORATOR" alt="LinkedIn Badge"/>
+    
+  </div>
+
+<div id="header" align="center">
+    <a href="yhttps://github.com/dev-dragon-ahmed/">
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
+       </a>
+</div>
+
+
+     
+<div align="center">
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-dragon-ahmed&layout=compact&hide=html,hack,css&theme=gotham)](https://github.com/dev-dragon-ahmed) 
+  <img  height=' 165px' src="https://github-readme-stats.vercel.app/api?username=dev-dragon-ahmed&show_icons=true&theme=gotham&count_private=true">
+</div>
+
+
+
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dev-dragon-ahmed&column=7&theme=onedark" />
+</div>
+<br>
+
+ <div id='lojc' align="center">
+
+| tools  | languages | frameworks  | technologies |   
+|---|---|---|---|
+|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div></div>|   
+  
+  
+  
+
+  
+ 
+  
+  
+
+  
+  
+  
+
+
+  
+  
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  
  
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-</p>
+
+
+<div id="badges"  align="center">
+
+![GitHub](https://activity-graph.herokuapp.com/graph?username=dev-dragon-ahmed&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
+
+</div>
+
+
+
+
+
  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23&" alt="samir20-23" /></p>
+<div id="badges"  align="center">
+  <a href="https://www.linkedin.com/in/dev-dragon-ahmed/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+  <a href="https://www.instagram.com/dev.dragon.ahmed/">
+    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter Badge"/>
+  </a>
+    <a href="https://github.com/dev-dragon-ahmed/">
+    <img src="https://img.shields.io/badge/reddit-red?style=for-the-badge&logo=reddit&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/Ahmd_dev_dragon">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
@@ -72,18 +130,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://codepen.io/https://codepen.io/germany-samir" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/germany-samir" height="30" width="40" />
-    </a>
-    <a href="https://twitter.com/https://x.com/samir_germany1" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/samir_germany1" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/linkedin.com/in/germany-samir-96b2002a0" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/germany-samir-96b2002a0" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/https://www.instagram.com/samir_devgenius/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samir_devgenius/" height="30" width="40" />
-    </a>
-</p>
+
+
+
+
