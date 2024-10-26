@@ -7,16 +7,8 @@
     </a>
 </p>
 
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="samir20-23" /> 
-</p>
  
-
-<p align="left"> 
-    <a href="https://twitter.com/https://x.com/samir_germany1" target="blank">
-        <img src="https://img.shields.io/twitter/follow/https://x.com/samir_germany1?logo=twitter&style=for-the-badge" alt="https://x.com/samir_germany1" />
-    </a> 
-</p>
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
