@@ -1,10 +1,5 @@
 
 <div id="badges"  align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
-  
-  </div>
-<div id="badges"  align="center">
 <h1 align="center">Samir Aoulad Amar</h1>
 </div>
 <div id="header" align="center">
@@ -81,15 +76,12 @@
      </div>
 </p>
 
+<div id="badges"  align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
+  
+  </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23&" alt="samir20-23" /></p>
-
-
-
-
-
-
-
-
 
 
 
@@ -117,25 +109,9 @@
 </div>
 
 
-
-
-<audio  style="opacity: 0; position: absolute;">
-  <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
-</audio>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align='center'>
+  <audio controls autoplay style="box-shadow: 0 0 114px 1px red;border-radius:70px">
+    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+  </audio>
+</div>
 
