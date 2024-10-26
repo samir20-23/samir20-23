@@ -12,8 +12,6 @@
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
        </a>
 </div>
-
-
  
  
   
@@ -31,15 +29,13 @@
 </div>
 
 
-
-
-
+ 
  
 <div id="badges"  align="center">
   
 <h3 align="left">Languages and Tools:</h3>
 <div id="badges"  align="center">
-<p align="left"> 
+<p align="center" > 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
     </a> 
@@ -102,8 +98,8 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
     <a href="https://codepen.io/https://codepen.io/germany-samir" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/germany-samir" height="30" width="40" />
     </a>
