@@ -1,7 +1,7 @@
 
 <div id="badges"  align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=63CF15&lines=If+you+fail+to+plan+you+plan+to+fail)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
     
   </div>
 
@@ -35,15 +35,47 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dev-dragon-ahmed&column=7&theme=onedark" />
 </div>
 <br>
-
- <div id='lojc' align="center">
-
-| tools  | languages | frameworks  | technologies |   
-|---|---|---|---|
-|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div>|<div id='lojc' align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" width="30" height="30"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="" alt="J" width="30" height="30"/>&nbsp;<img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" title="" alt="J" width="30" height="30"/>&nbsp;</div></div>|   
-  
-  
-  
+<div id="lojc" align="center">
+    <table>
+        <tr>
+            <th>Tools</th>
+            <th>Languages</th>
+            <th>Frameworks</th>
+            <th>Technologies</th>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="30" height="30"/>&nbsp;
+            </td>
+            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30" height="30"/>&nbsp;
+            </td>
+            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="30" height="30"/>&nbsp;
+            </td>
+            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" width="30" height="30"/>&nbsp;
+                <img src="https://github.com/devicons/devicon/blob/master/icons/sketch/sketch-original.svg" width="30" height="30"/>&nbsp;
+            </td>
+        </tr>
+    </table>
+</div>
 
   
  
