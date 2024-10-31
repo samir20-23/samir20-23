@@ -30,6 +30,7 @@
 <div id="badges"  align="center">
   
 <h3 align="left">Languages and Tools:</h3>
+
 <div id="badges"  align="center">
 <p align="center" > 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -61,6 +62,9 @@
     </a> 
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+    </a> 
+     <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="php" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
