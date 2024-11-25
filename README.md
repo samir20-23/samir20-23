@@ -114,7 +114,7 @@
     <a href="https://linkedin.com/in/linkedin.com/in/germany-samir-96b2002a0" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/germany-samir-96b2002a0" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/https://www.instagram.com/samir_devgenius/" target="blank">
+    <a href="https://www.instagram.com/samir_devgenius/" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samir_devgenius/" height="30" width="40" />
     </a>
 </p>
