@@ -18,9 +18,9 @@
   
   
 <div id="badges"  align="center">
-<p align="center">
+<p align="center"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark" alt="trophy" />
+        <img src="[https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark](https://github.com/samir20-23?tab=repositories)" alt="trophy" />
     </a>
 </p>
 </div>
