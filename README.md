@@ -74,7 +74,7 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
  <a href="https://laravel.com" target="_blank" rel="noreferrer">
- <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="laravel" width="40" height="40"/>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdroLOglNHdqWyL7ffXWyRnJ0HacUaGZRhqYv0SsqACH4HakaRYyJk1Bu9Z3-NGcs6EeE&usqp=CAU" alt="laravel" width="40" height="40"/>
   </a>
      </a>
    <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
