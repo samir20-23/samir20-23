@@ -109,7 +109,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/germany-samir" height="30" width="40" />
     </a>
   <a href="https://uiverse.io/profile/samir20-23" target="blank">
-        <img align="center" src="https://uiverse.io/assets/logo-png-BXFOQKfc.png" alt="https://uiverse.io/profile/samir20-23" height="30" width="40" />
+        uiverse.io
     </a>
 </p>
 <h3 align="center">Connect with me:</h3>
