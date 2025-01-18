@@ -98,7 +98,7 @@
 
  
 <p align="center">
-  <a src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23" alt="GitHub Streak Stats" >GitHub Streak Stats</a>
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23" alt="GitHub Streak Stats" >GitHub Streak Stats</a>
 </p>
 
 
