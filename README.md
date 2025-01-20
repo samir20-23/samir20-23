@@ -111,18 +111,18 @@
   </a>
 </div>
 
----
+ 
 
 ### 🏆 **GitHub Trophies:**
 
 <div align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=samir20-23" alt="GitHub Trophies" />
   </a>
 </div>
 
 
----
+ 
 
 ### 🌐 **Connect with Me:**
 
@@ -152,7 +152,7 @@
   </audio>
 </div>
 
----
+ 
 
 ### 📂 **Explore My Repositories:**
 
@@ -162,7 +162,7 @@
   </a>
 </div>
 
----
+ 
 
 
 ### 📫 **How to Reach Me:**
@@ -172,12 +172,12 @@
 - **LinkedIn:** [Samir Aoulad Amar](https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/)
 
  
----
+ 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
----
+ 
  
 
