@@ -107,20 +107,12 @@
 
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23" onerror="this.onerror=null; this.src='https://img.icons8.com/color/96/000000/github--v1.png';" alt="GitHub Streak Stats" />
   </a>
 </div>
 
  
-
-### 🏆 **GitHub Trophies:**
-
-<div align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=samir20-23" alt="GitHub Trophies" />
-  </a>
-</div>
-
+ 
 
  
 
