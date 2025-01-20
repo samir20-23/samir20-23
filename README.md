@@ -107,7 +107,7 @@
 
 <div align="center">
   <a href="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23" onerror="this.onerror=null; this.src='https://img.icons8.com/color/96/000000/github--v1.png';" alt="GitHub Streak Stats" />
+GitHub Streak Stats
   </a>
 </div>
 
