@@ -29,9 +29,7 @@
  
  
 <div id="badges"  align="center">
-   
-- Languages and Tools :yum: [raiprajwal.com](https://raiprajwal.com)
-
+<h3> Languages and Tools <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> : </h3>
 <div id="badges"  align="center">
 <p align="center" > 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
