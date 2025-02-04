@@ -29,7 +29,7 @@
  
  
 <div id="badges"  align="center">
-<h3> Languages and Tools <img src="https://media3.giphy.com/media/elzCnIQAjQMWA/giphy.webp?cid=790b7611d9z18043ns5mneh60woe7x8pnffkhqkypb13c0ki&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="20"> : </h3>
+<h3> Languages and Tools <img src="https://media2.giphy.com/media/l3fQe3M67aDcDo3cs/giphy.webp?cid=ecf05e47vd0g5mne1urc1cpgas0ds7mxil8lsnfzmpypx3i4&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
 <div id="badges"  align="center">
 <p align="center" > 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
