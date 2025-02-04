@@ -29,8 +29,8 @@
  
  
 <div id="badges"  align="center">
-  
-<h3 align="left">Languages and Tools :yum: [raiprajwal.com](https://raiprajwal.com) </h3>
+   
+- Languages and Tools :yum: [raiprajwal.com](https://raiprajwal.com)
 
 <div id="badges"  align="center">
 <p align="center" > 
