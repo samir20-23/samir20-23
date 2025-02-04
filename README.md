@@ -30,6 +30,13 @@
  
 <div id="badges"  align="center">
 <h3> Languages and Tools <img src="https://media2.giphy.com/media/l3fQe3M67aDcDo3cs/giphy.webp?cid=ecf05e47vd0g5mne1urc1cpgas0ds7mxil8lsnfzmpypx3i4&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+ <h3> Languages and Tools <img src="hhttps://media3.giphy.com/media/xT77XGs5Kw0nh1TRC0/giphy.webp?cid=ecf05e47ci4ur2rfjydoieqfs2zmla4peqm1ijm9szh6qkxp&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+ <h3> Languages and Tools <img src="https://media3.giphy.com/media/Xgkr8kq3NPlv0s1yii/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+ <h3> Languages and Tools <img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="20"> : </h3>
+ <h3> Languages and Tools <img src="https://media3.giphy.com/media/xT0BKqD9olWLpzPb2w/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+ 
+ 
+ 
 <div id="badges"  align="center">
 <p align="center" > 
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
