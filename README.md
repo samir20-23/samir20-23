@@ -1,6 +1,8 @@
 
 <div id="badges"  align="center">
-<h1 align="center">Samir Aoulad Amar</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=2900FF&center=true&vCenter=true&width=482&lines=Samir+Aoulad+Amar" alt="Typing SVG" /></a>
+</h1>
 </div>
 <div id="header" align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
@@ -15,8 +17,10 @@
 </p>
 </div>
 
-<div id="badges"  align="center">  
- <h3> Languages and Tools <img src="https://media3.giphy.com/media/xT0BKqD9olWLpzPb2w/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+<div id="badges"  align="center">
+  <img src="https://media3.giphy.com/media/xT0BKqD9olWLpzPb2w/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20">  
+ <h3>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=Languages+and+Tools+:+" alt="Typing SVG" /></a></h3>
  
 <div id="badges"  align="center">
 <p align="center" > 
@@ -77,9 +81,7 @@
 </p>
 
 <div id="badges"  align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=63CF15&lines=If+you+fail+get+up+and+try+again)](https://git.io/typing-svg)
-  
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=00B511&center=true&vCenter=true&width=482&lines=If+you+fail+get+up+and+try+again" alt="Typing SVG" /></a>
   </div>
   
  ### <h3>📊GitHub Stats__<img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="30"> : </h3>  
@@ -132,7 +134,10 @@ GitHub Streak Stats
   </a>
 </div>
 
-### <h3> 📫 How to Reach Me__<img src="https://media2.giphy.com/media/l3fQe3M67aDcDo3cs/giphy.webp?cid=ecf05e47vd0g5mne1urc1cpgas0ds7mxil8lsnfzmpypx3i4&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+<img src="https://media2.giphy.com/media/l3fQe3M67aDcDo3cs/giphy.webp?cid=ecf05e47vd0g5mne1urc1cpgas0ds7mxil8lsnfzmpypx3i4&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20">
+
+### <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=📫+How+to+Reach+Me__+:+" alt="Typing SVG" /></a>
+   </h3>
  
 - **Email:** [aouladamarsamir@gmail.com](mailto:aouladamarsamir@gmail.com)
 - **Twitter:** [@samir_germany1](https://twitter.com/samir_germany1)
