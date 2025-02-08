@@ -99,6 +99,11 @@ GitHub Streak Stats
  💡  Every setback is a lesson, every effort shapes your destiny.
 
  </div>
+<div align="center" >
+  <a href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
+    <img src="https://img.shields.io/badge/View-website-blue?style=for-the-badge" alt="View Repositories" />
+  </a>
+</div>
 
 ### <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=📫+How+to+Reach+Me__+:+" alt="Samir Aoulad Amar" />
    </h3>
