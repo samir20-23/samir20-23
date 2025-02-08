@@ -1,9 +1,15 @@
 
 <div id="badges"  align="center">
-<h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=2900FF&center=true&vCenter=true&width=482&lines=Samir+Aoulad+Amar" alt="Typing SVG" /></a>
-</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=6D26BFFF&center=true&vCenter=true&width=482&lines=Samir+Aoulad+Amar" alt="Samir Aoulad Amar" />
+<!-- move and color v0 -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=4&pause=20&color=2900FF&center=true&vCenter=true&width=482&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
+<!-- move and color v1 -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
+<!-- fix dont move  -->
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=1900&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
+</h1> 
 </div>
+
 <div id="header" align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="480"/>
        </a>
@@ -20,70 +26,17 @@
 <div id="badges"  align="center">
   <img src="https://media3.giphy.com/media/xT0BKqD9olWLpzPb2w/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20">  
  <h3>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=Languages+and+Tools+:+" alt="Typing SVG" /></a></h3>
- 
-<div id="badges"  align="center">
-<p align="center" > 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-        <a href="https://www.w3schools.com/angular/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original-wordmark.svg" alt="angular" width="60" height="60"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a>  
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
- <a href="https://laravel.com" target="_blank" rel="noreferrer">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdroLOglNHdqWyL7ffXWyRnJ0HacUaGZRhqYv0SsqACH4HakaRYyJk1Bu9Z3-NGcs6EeE&usqp=CAU" alt="laravel" width="40" height="40"/>
-  </a>
-     </a>
-   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-    </a> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30" height="30"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="30" height="30"/>&nbsp;
-     </div>
-</p>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=Languages+and+Tools+:+" alt="Samir Aoulad Amar" /></h3>
 
-<div id="badges"  align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=00B511&center=true&vCenter=true&width=482&lines=If+you+fail+get+up+and+try+again" alt="Typing SVG" /></a>
-  </div>
-  
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,vscode,github,vue,figma,tailwind,git" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,angular,linux,md,react,python,npm" /><br>
+    <img src="https://skillicons.dev/icons?i=php,androidstudio,kotlin,arduino,kali,mysql" /><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4&pause=20&color=9B31FE&center=true&vCenter=true&width=482&lines=..." alt="Samir Aoulad Amar" />
+    <div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=6D26BFFF&center=true&vCenter=true&width=482&lines=If+you+fail+get+up+and+try+again" alt="Typing SVG" />
+</div>
+</div>
+
  ### <h3>📊GitHub Stats__<img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="30"> : </h3>  
 
 <div align="center">
@@ -135,8 +88,19 @@ GitHub Streak Stats
 </div>
 
 <img src="https://media2.giphy.com/media/l3fQe3M67aDcDo3cs/giphy.webp?cid=ecf05e47vd0g5mne1urc1cpgas0ds7mxil8lsnfzmpypx3i4&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20">
+<br/> 
+<div align="center">
+<h3 align="center">✨Full StackDevelopment</h3>
 
-### <h3> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=📫+How+to+Reach+Me__+:+" alt="Typing SVG" /></a>
+ 🔥 Keep moving forward, never look back. 
+
+ 🚀 Success is built on persistence and courage.
+
+ 💡  Every setback is a lesson, every effort shapes your destiny.
+
+ </div>
+
+### <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=📫+How+to+Reach+Me__+:+" alt="Samir Aoulad Amar" />
    </h3>
  
 - **Email:** [aouladamarsamir@gmail.com](mailto:aouladamarsamir@gmail.com)
