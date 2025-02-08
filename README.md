@@ -17,7 +17,7 @@
  
 <div id="badges"  align="center">
 <p align="center">
-    <a href=" https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark](https://github.com/samir20-23?tab=repositories">
+    <a target="blank" href=" https://github-profile-trophy.vercel.app/?username=samir20-23&theme=onedark](https://github.com/samir20-23?tab=repositories">
        repositories
     </a>
 </p>
@@ -40,13 +40,13 @@
  ### <h3>📊GitHub Stats__<img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="30"> : </h3>  
 
 <div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical">
+  <a target="blank" href="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical" alt="Samir's GitHub Stats" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23">
+  <a target="blank" href="https://github-readme-streak-stats.herokuapp.com/?user=samir20-23">
 GitHub Streak Stats
   </a>
 </div>
@@ -55,19 +55,19 @@ GitHub Streak Stats
 
 <div align="center">
   <p align="center">
-    <a href="https://twitter.com/samir_germany1" target="blank">
+    <a target="blank" href="https://twitter.com/samir_germany1" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/samir_germany1" height="30" width="40" />
     </a>
-    <a href="https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/" target="blank">
+    <a target="blank" href="https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samir-aoulad-amar-a238a9334/" height="30" width="40" />
     </a>
-    <a href="https://www.instagram.com/samir_devgenius/" target="blank">
+    <a target="blank" href="https://www.instagram.com/samir_devgenius/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/samir_devgenius/" height="30" width="40" />
     </a>
-    <a href="https://codepen.io/germany-samir" target="blank">
+    <a target="blank" href="https://codepen.io/germany-samir" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/germany-samir" height="30" width="40" />
     </a>
-    <a href="https://uiverse.io/profile/samir20-23" target="blank">
+    <a target="blank" href="https://uiverse.io/profile/samir20-23" target="blank">
       uiverse.io
     </a>
   </p>
@@ -82,7 +82,7 @@ GitHub Streak Stats
 ### <h3><img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=790b7611uow0p53gzg1mtk22a98w762tl2np03dmsai4cz5b&ep=v1_gifs_search&rid=200.webp&ct=g" width="20"> Explore My Repositories__<img src="https://media2.giphy.com/media/3o7TKt4chYAVl2nByE/giphy.webp?cid=ecf05e47kanx9422yehf11mgpdp2s5gw9wsd4dj13r4ro0ix&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
 
 <div align="center" >
-  <a href="https://github.com/samir20-23?tab=repositories">
+  <a target="blank" href="https://github.com/samir20-23?tab=repositories">
     <img src="https://img.shields.io/badge/View-Repositories-blue?style=for-the-badge&logo=github" alt="View Repositories" />
   </a>
 </div>
@@ -100,7 +100,7 @@ GitHub Streak Stats
 
  </div>
 <div align="center" >
-  <a href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
+  <a target="blank" href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
     <img src="https://img.shields.io/badge/View-website-blue?style=for-the-badge" alt="View Repositories" />
   </a>
 </div>
@@ -113,7 +113,9 @@ GitHub Streak Stats
 - **LinkedIn:** [Samir Aoulad Amar](https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/)
 
 <div align="center">
+  <a target="blank" href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
   <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </div>
 
  
