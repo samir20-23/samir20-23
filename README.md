@@ -30,8 +30,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=Languages+and+Tools+:+" alt="Samir Aoulad Amar" /></h3>
 
 <div align="center">
-  <a href="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,git,javascript,angular,linux,md,react,python,bun,npm,php,androidstudio,kotlin,arduino,kali,nodejs">
-    //hear the icons 
+  <a href="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,git,javascript,angular,linux,md,react,python,bun,npm,php,androidstudio,kotlin,arduino,kali,nodejs">  
     <img src="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,git" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,angular,linux,md,react,python,bun,npm" /><br>
     <img src="https://skillicons.dev/icons?i=php,androidstudio,kotlin,arduino,kali,nodejs" /><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4&pause=20&color=9B31FE&center=true&vCenter=true&width=482&lines=..." alt="Samir Aoulad Amar" />
