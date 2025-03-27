@@ -7,7 +7,8 @@
 <!-- move and color v1 -->
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
 <!-- fix dont move cccccccccccccc  -->
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=1900&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
+
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=1900&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> --><!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=1900&pause=10&color=2488AB&center=true&vCenter=true&multiline=true&repeat=false&random=true&width=482&height=89&lines=Samir+Aoulad+Amar" alt="Typing SVG" /> -->
 </h1> 
 </div>
 
