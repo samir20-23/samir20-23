@@ -114,12 +114,3 @@ GitHub Streak Stats
   <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </div>
-
-
-
-
-
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=00883d&center=true&vCenter=true&width=482&lines=▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇" alt="Typing SVG" />
-      </a>
-</div>
