@@ -31,11 +31,7 @@
   <a href="https://skillicons.dev/icons?i=laravel,bootstrap,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,git,javascript,angular,linux,md,react,python,bun,npm,php,androidstudio,kotlin,arduino,kali,nodejs">  
     <img src="https://skillicons.dev/icons?i=laravel,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,adonis" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,angular,linux,md,react,python,bun,npm,git,firebase" /><br>
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,androidstudio,kotlin,arduino,kali,nodejs,supabase" /><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4&pause=20&color=9B31FE&center=true&vCenter=true&width=482&lines=..." alt="Samir Aoulad Amar" />
-    <div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=6D26BFFF&center=true&vCenter=true&width=482&lines=.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+.+." alt="Typing SVG" />
-      </a>
-</div>
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,androidstudio,kotlin,arduino,kali,nodejs,supabase" /><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4&pause=20&color=9B31FE&center=true&vCenter=true&width=482&lines=..." alt="Samir Aoulad Amar" /> 
 </div>
 
  ### <h3>📊GitHub Stats__<img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="30"> : </h3>  
@@ -117,4 +113,13 @@ GitHub Streak Stats
   <a target="blank" href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
   <img src="https://komarev.com/ghpvc/?username=samir20-23&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+</div>
+
+
+
+
+
+<div align="center"> 
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4000&pause=1000&color=00883d&center=true&vCenter=true&width=482&lines=▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇+▇" alt="Typing SVG" />
+      </a>
 </div>
