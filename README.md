@@ -52,13 +52,11 @@ GitHub Streak Stats
 
 <div align="center">
   <p align="center">
-    <a target="blank" href="https://twitter.com/samir_germany1" target="blank"/>
-    <a target="blank" href="https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/" target="blank"/>
-    <a target="blank" href="https://www.instagram.com/samir_devgenius/" target="blank"/>
-    <a target="blank" href="https://codepen.io/germany-samir" target="blank"/>
-    <a target="blank" href="https://uiverse.io/profile/samir20-23" target="blank">
-      uiverse.io
-    </a>
+    <a href="https://twitter.com/samir_germany1" target="_blank">Twitter</a>
+    <a href="https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/" target="_blank">LinkedIn</a>
+    <a href="https://www.instagram.com/samir_devgenius/" target="_blank">Instagram</a>
+    <a href="https://codepen.io/germany-samir" target="_blank">CodePen</a>
+    <a href="https://uiverse.io/profile/samir20-23" target="_blank">Uiverse</a>
   </p>
 </div>
  
