@@ -53,7 +53,7 @@ GitHub Streak Stats
 <div align="center">
   <p align="center">
     <a target="blank" href="https://twitter.com/samir_germany1" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/samir_germany1" height="30" width="40" />
+      <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg](https://img.magnific.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?semt=ais_hybrid&w=740&q=80)" alt="https://x.com/samir_germany1" height="30" width="40" />
     </a>
     <a target="blank" href="https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/samir-aoulad-amar-a238a9334/" height="30" width="40" />
