@@ -32,13 +32,13 @@
     <img src="https://skillicons.dev/icons?i=laravel,html,css,express,mysql,vscode,ubuntu,github,vue,figma,tailwind,alpinejs,adonis" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,angular,linux,md,react,python,bun,npm,git,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=php,bootstrap,androidstudio,kotlin,arduino,kali,nodejs,supabase" /><br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=4&pause=20&color=9B31FE&center=true&vCenter=true&width=482&lines=..." alt="Samir Aoulad Amar" /> 
-</div>
+    </a>
+</div> 
 
- ### <h3>📊GitHub Stats__<img src="https://media2.giphy.com/media/xTiTnpYk31KxHJZdFm/200.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=200.webp&ct=g" width="30"> : </h3>  
+ ### <h3>GitHub Stats : </h3>  
 
 <div align="center">
-  <a target="blank" href="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical" alt="Samir's GitHub Stats" />
+  <a target="blank" href="https://github-readme-stats.vercel.app/api?username=samir20-23&show_icons=true&theme=radical"> 
   </a>
 </div>
 
@@ -48,7 +48,8 @@ GitHub Streak Stats
   </a>
 </div>
 
-### <h3> 🌐Connect with Me__<img src="https://media3.giphy.com/media/Xgkr8kq3NPlv0s1yii/giphy.webp?cid=ecf05e47brr7shv4hvzp6etvbil3rv1kc0vc7loo83pmnr9q&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+
+### <h3>Connect with Me : </h3>
 
 <div align="center">
   <p align="center">
@@ -66,7 +67,9 @@ GitHub Streak Stats
   </audio>
 </div>
 
-### <h3><img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=790b7611uow0p53gzg1mtk22a98w762tl2np03dmsai4cz5b&ep=v1_gifs_search&rid=200.webp&ct=g" width="20"> Explore My Repositories__<img src="https://media2.giphy.com/media/3o7TKt4chYAVl2nByE/giphy.webp?cid=ecf05e47kanx9422yehf11mgpdp2s5gw9wsd4dj13r4ro0ix&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
+<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/200.webp?cid=790b7611uow0p53gzg1mtk22a98w762tl2np03dmsai4cz5b&ep=v1_gifs_search&rid=200.webp&ct=g" width="20">
+
+### <h3> Explore My Repositories__<img src="https://media2.giphy.com/media/3o7TKt4chYAVl2nByE/giphy.webp?cid=ecf05e47kanx9422yehf11mgpdp2s5gw9wsd4dj13r4ro0ix&ep=v1_gifs_related&rid=giphy.webp&ct=g" width="20"> : </h3>
 
 <div align="center" >
   <a target="blank" href="https://github.com/samir20-23?tab=repositories">
@@ -92,12 +95,15 @@ GitHub Streak Stats
   </a>
 </div>
 
-### <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=📫+How+to+Reach+Me__+:+" alt="Samir Aoulad Amar" />
+### <h3><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=17&duration=4&pause=40&color=FFFFFF&center=true&vCenter=true&width=482&lines=+How+to+Reach+Me__+:+" alt="Samir Aoulad Amar" />
    </h3>
+ <div align="center">
  
 - **Email:** [aouladamarsamir@gmail.com](mailto:aouladamarsamir@gmail.com)
 - **Twitter:** [@samir_germany1](https://twitter.com/samir_germany1)
 - **LinkedIn:** [Samir Aoulad Amar](https://www.linkedin.com/in/samir-aoulad-amar-a238a9334/)
+
+</div>
 
 <div align="center">
   <a target="blank" href="https://samir20-23.github.io/App_Bio/resources/views/google.com/main.html">
